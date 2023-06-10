@@ -50,7 +50,7 @@ a {
 
 .collection {
   padding-top: 50px;
-  padding-left: 50px;
+  text-align: center;
 }
 
 .collection h2 {
@@ -78,4 +78,14 @@ a {
 .col-6 button {
   width: 223px;
   height: 72px;
+}
+
+.popular {
+  text-align: center;
+  padding: 30px 0 30px 100px;
+}
+
+.mini-category {
+  width: 312px;
+  height: 312px;
 }
