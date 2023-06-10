@@ -36,3 +36,47 @@
     color: rgb(0, 0, 0);
   }
 }
+
+.nav {
+  padding-top: 50px;
+
+  li {
+    a {
+      color: rgb(0, 0, 0);
+    }
+  }
+}
+
+.collection {
+  padding-top: 50px;
+  padding-left: 50px;
+
+  h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 74px;
+    line-height: 55px;
+    padding-bottom: 50px;
+  }
+
+  p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 55px;
+  }
+
+  img {
+    border: 2px solid rgba(0, 0, 0, 0.25);
+    border-radius: 160px 0px;
+  }
+}
+
+.col-6 {
+  button {
+    width: 223px;
+    height: 72px;
+  }
+}
